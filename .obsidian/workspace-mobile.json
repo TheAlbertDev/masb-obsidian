@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "68a91e0fe50abf7e",
+        "id": "f489d6df9b52a0cd",
         "type": "tabs",
         "children": [
           {
-            "id": "783921c7c28bf9ca",
+            "id": "21e17e51daa30755",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Welcome to MASB!.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9d8bbc29be5d6bd5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
+                "file": "Lab sessions/P01/arduino/Hello, World!.md",
+                "mode": "preview",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,9 +85,9 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "README.md",
-            "collapseAll": false,
-            "extraContext": false,
+            "file": "Lab sessions/P01/arduino/Hello, World!.md",
+            "collapseAll": true,
+            "extraContext": true,
             "sortOrder": "alphabetical",
             "showSearch": false,
             "searchQuery": "",
@@ -115,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "README.md",
+            "file": "Lab sessions/P01/arduino/Hello, World!.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -127,12 +114,12 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "README.md"
+            "file": "Lab sessions/P01/arduino/Hello, World!.md"
           }
         }
       }
     ],
-    "currentTab": 0
+    "currentTab": 2
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -144,12 +131,48 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9d8bbc29be5d6bd5",
+  "active": "21e17e51daa30755",
   "lastOpenFiles": [
     "Welcome to MASB!.md",
+    "Lab sessions/P01/stm32cubeide/Hello, World!.md",
+    "Lab sessions/P01/arduino/Hello, World!.md",
+    "Lab sessions/P02/Interrupts.md",
+    "Theory/Memories.md",
+    "Theory/Git workflows/GitFlow.canvas",
+    "Theory/C programming/From “Hello World” to zeros and ones.md",
+    "Theory/C programming/Stack vs heap.md",
     "README.md",
-    "theory",
-    "projects",
-    "lab_sessions"
+    "LICENSE.md",
+    "Projects/Potentiostat.md",
+    "Theory/Peripherals/GPIO.md",
+    "GPIOs.md",
+    "Lab sessions/P01/stm32cubeide",
+    "Lab sessions/P01/arduino",
+    "Lab sessions/P09/State machines.md",
+    "Lab sessions/P10/Signal processing.md",
+    "Lab sessions/P09",
+    "Lab sessions/P08/Serial communication IV - I2C.md",
+    "Lab sessions/P10",
+    "Lab sessions/P07/Serial communication III - Instruction set.md",
+    "Lab sessions/P08",
+    "Lab sessions/P05/Serial communication I - UART.md",
+    "Lab sessions/P07",
+    "Lab sessions/P06/Serial communication II - COBS.md",
+    "Lab sessions/P06",
+    "Lab sessions/P04/ADC.md",
+    "Lab sessions/P05",
+    "Lab sessions/P03/Timers.md",
+    "Lab sessions/P04",
+    "Lab sessions/P03",
+    "Theory/Git workflows/GitLab Flow.canvas",
+    "Theory/Git workflows/GitHub Flow.canvas",
+    "Untitled.canvas",
+    "Projects/Untitled.md",
+    "Projects/Electrocardiogram.md",
+    "Theory/C programming/Code style & good practices.md",
+    "Theory/Endianess.md",
+    "Theory/C programming/Pointers.md",
+    "Assets/Pasted image 20240809205752.png",
+    "Pasted image 20240809205446.png"
   ]
 }
