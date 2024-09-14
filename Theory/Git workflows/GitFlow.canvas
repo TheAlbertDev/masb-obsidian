@@ -1,6 +1,7 @@
 {
 	"nodes":[
-		{"id":"f0b0207e08d8cf3f","type":"link","url":"https://nvie.com/posts/a-successful-git-branching-model/","x":45,"y":45,"width":400,"height":400}
+		{"id":"f0b0207e08d8cf3f","type":"link","url":"https://nvie.com/posts/a-successful-git-branching-model/","x":45,"y":45,"width":400,"height":400},
+		{"id":"ea315ef607b8e5de","x":87,"y":-158,"width":250,"height":60,"type":"text","text":"Tags\n#examageddon "}
 	],
 	"edges":[]
 }

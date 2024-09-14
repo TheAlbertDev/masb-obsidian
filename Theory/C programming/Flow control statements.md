@@ -1,3 +1,8 @@
+---
+tags:
+  - examageddon
+---
+
 # if, if-else, if-else if
 # switch
 # for loop
